@@ -14,5 +14,3 @@ Aceita um CEP inserido pelo usuário, consome a API ViaCEP, realiza o parse da r
         Bairro: Bela Vista
         Município: São Paulo
         Estado: SP
-## Notas
-
