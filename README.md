@@ -7,7 +7,7 @@ Aceita um CEP inserido pelo usuário, consome a API ViaCEP, realiza o parse da r
 * Jackson (Parsing do JSON).
 ## Exemplo
 * Input: 01310200
-* Saída:
+* Output:
 
         Cep: 01310-200
         Logradouro: Avenida Paulista
